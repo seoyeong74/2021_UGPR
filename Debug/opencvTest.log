@@ -1,0 +1,4 @@
+﻿  sensor.cpp
+C:\Working\dev-PC-LiDAR-ToF\opencvTest\sensor.cpp(14,10): fatal error C1083: 포함 파일을 열 수 없습니다. 'unistd.h': No such file or directory
+  serial.cpp
+C:\Working\dev-PC-LiDAR-ToF\opencvTest\serial.cpp(11,10): fatal error C1083: 포함 파일을 열 수 없습니다. 'termios.h': No such file or directory

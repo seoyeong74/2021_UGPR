@@ -1,0 +1,17 @@
+﻿  sensor.cpp
+D:\OneDrive - postech.ac.kr\바탕 화면\ToF\dev\dev-PC-COEX\opencvTest\sensor.cpp(88,8): warning C4101: 'buf' :참조되지 않은 지역 변수입니다.
+D:\OneDrive - postech.ac.kr\바탕 화면\ToF\dev\dev-PC-COEX\opencvTest\sensor.cpp(85,9): warning C4101: 'j' :참조되지 않은 지역 변수입니다.
+D:\OneDrive - postech.ac.kr\바탕 화면\ToF\dev\dev-PC-COEX\opencvTest\sensor.cpp(211,8): warning C4101: 'buf' :참조되지 않은 지역 변수입니다.
+D:\OneDrive - postech.ac.kr\바탕 화면\ToF\dev\dev-PC-COEX\opencvTest\sensor.cpp(208,9): warning C4101: 'j' :참조되지 않은 지역 변수입니다.
+D:\OneDrive - postech.ac.kr\바탕 화면\ToF\dev\dev-PC-COEX\opencvTest\sensor.cpp(334,8): warning C4101: 'buf' :참조되지 않은 지역 변수입니다.
+D:\OneDrive - postech.ac.kr\바탕 화면\ToF\dev\dev-PC-COEX\opencvTest\sensor.cpp(331,9): warning C4101: 'j' :참조되지 않은 지역 변수입니다.
+D:\OneDrive - postech.ac.kr\바탕 화면\ToF\dev\dev-PC-COEX\opencvTest\sensor.cpp(457,8): warning C4101: 'buf' :참조되지 않은 지역 변수입니다.
+D:\OneDrive - postech.ac.kr\바탕 화면\ToF\dev\dev-PC-COEX\opencvTest\sensor.cpp(454,9): warning C4101: 'j' :참조되지 않은 지역 변수입니다.
+D:\OneDrive - postech.ac.kr\바탕 화면\ToF\dev\dev-PC-COEX\opencvTest\sensor.cpp(599,91): warning C4244: '=': 'double'에서 '_Tp'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Tp=float
+          ]
+D:\OneDrive - postech.ac.kr\바탕 화면\ToF\dev\dev-PC-COEX\opencvTest\sensor.cpp(571,6): warning C4101: 'y' :참조되지 않은 지역 변수입니다.
+  LINK : /LTCG를 지정했지만 코드를 생성할 필요가 없습니다. 명령줄에서 /LTCG를 제거하면 링커 성능이 향상됩니다.
+  opencvTest.vcxproj -> D:\OneDrive - postech.ac.kr\바탕 화면\ToF\dev\dev-PC-COEX\Release\opencvTest.exe
