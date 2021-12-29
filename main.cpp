@@ -5,7 +5,7 @@
 // Son, Youngbin
 // tech@hybo.co
 
-#define _CRT_SECURE_NO_WARNINGS
+// #define _CRT_SECURE_NO_WARNINGS
 
 //#include <winsock.h>
 //#include <windows.h>
@@ -16,8 +16,8 @@
 
 #pragma comment(lib, "Ws2_32.lib")
 #include "main.h"
-#include <highgui.h>
-#include <cv.h>
+#include <opencv2/highgui/highgui.hpp>
+#include <opencv2/opencv.hpp>
 
 #include <iostream>
 
